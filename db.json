@@ -17,6 +17,12 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "Learn Angular",
+      "day": "30.4.2022.",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
